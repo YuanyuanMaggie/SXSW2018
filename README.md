@@ -14,7 +14,7 @@
     - [1. Choice Architects (Design for Humanity's Best Self)](./Design#1-choice-architects-design-for-humanitys-best-self)
     - [2. Experience Design, the new(seamless) marketing era](./Design#2-experience-design-the-newseamless-marketing-era)
     - [3. Design in the Era of the Algorithm](./Design#3-design-in-the-era-of-the-algorithm)
-    - [4. Changing Minds: Behavioral Science for Designers](./Design#4-changing-minds-behavioral-science-for-designers)
+    - [4. Changing Minds: Behavioral Science for Designers ](./Design#4-changing-minds-behavioral-science-for-designers)
     - [5. Animation in UX: Subconscious Influence of Motion](./Design#5-animation-in-ux-subconscious-influence-of-motion)
 - [Marketing](./Marketing#marketing)
     - [1. Non-Obvious Trends Changing the Future *](./Marketing#1-non-obvious-trends-changing-the-future-)
@@ -24,7 +24,7 @@
     - [1. SXSW Accelerator Pitch Event](./Startups#1-sxsw-accelerator-pitch-event)
     - [2. Think Like a Startup: How Innovation Gets Done](./Startups#2-think-like-a-startup-how-innovation-gets-done)
     - [3. How Future Tech Will Shape Our engagement with Others](./Startups#3-how-future-tech-will-shape-our-engagement-with-others)
-
+    - [4. Insteresting exhibitions](./Startups#insteresting-exhibitions)
 - [Workshops](./Workshops#workshops)
     - [Intro to GraphQL: The Future Language of the Web*](./Workshops#intro-to-graphql-the-future-language-of-the-web)
 - [Blockchain](./Blockchain#blockchain)
@@ -33,12 +33,12 @@
     - [3. Blockchain Development, Simplified](./Blockchain#3-blockchain-development-simplified)
 ## What I learned from this conference 
 
-- `After attending many conferences, I’ve realized: I don’t attend to learn. I attend to learn what I need to learn.`  — Cory House. So here is my new learning lists: graphQl, vuejs, PWA/AMP, Aria/A11y and VR/AR.
-- It's not hard to make a conference talk, if you want attract more people, have a fancy name. For example, `Learn XXX under 1 hour`, `Intro to XXX and more`, etc. And then, fill the XXX with something popular. For example, `blockchain`, `machine learning`, or `artificial intelligent`.
-- Humor is the point for keynote speaker
-- Fun Videos, images, jokes and Q&As with audiences are all good opening in the talk. 
+- `"After attending many conferences, I’ve realized: I don’t attend to learn. I attend to learn what I need to learn."`  — Cory House. So here is my new learning lists: graphQl, vuejs, PWA/AMP, Aria/A11y and VR/AR.
+- It's not hard to make a conference talk, if you want to attract more people, have a fancy name. For example, `Learn XXX under 1 hour`, `Intro to XXX and more`, etc. And then, fill the XXX with something popular. For example, `blockchain`, `machine learning`, or `artificial intelligent`.
+- Humor is the key point for keynote speakers
+- Fun Videos, images, jokes and Q&As with audiences are all good openings 
 - Notes for becoming a good speaker:
     - Fun stories
     - Passion about speech
-    - Raise hand interaction
+    - Raise hand interactions
     - Change speed (sometime slow down and make it powerful)

@@ -12,6 +12,7 @@
     - [3.1. How will smart voice serviceaffect our engagement?](#31-how-will-smart-voice-serviceaffect-our-engagement)
     - [3.2. Self-driving: AI Evolution and massive deployment in production cars](#32-self-driving-ai-evolution-and-massive-deployment-in-production-cars)
     - [3.3. How to build intelligent Eyes for AI Machines](#33-how-to-build-intelligent-eyes-for-ai-machines)
+- [Insteresting exhibitions](#insteresting-exhibitions)
 
 <!-- /TOC -->
 # 1. SXSW Accelerator Pitch Event
@@ -104,3 +105,29 @@
 ## 3.3. How to build intelligent Eyes for AI Machines
 - eyemore: Power AI Machine with better-than-human-eye Imaging Engine
 - Machine's Evolution Drivern by AI
+
+# Insteresting exhibitions
+
+<p align='center'>
+    <img src='./images/ai.JPG' width='600' alt='JS Fatigue'>
+</p>
+Qoobo: A Robotic Fake Cat That Wags Its Tail
+
+<p align='center'>
+    <img src='./images/ai3.jpg' width='600' alt='JS Fatigue'>
+</p>
+Sushi maker
+
+<p align='center'>
+    <img src='./images/ai4.jpg' width='600' alt='JS Fatigue'>
+</p>
+Personal Robot
+<p align='center'>
+    <img src='./images/ai5.JPG' width='600' alt='JS Fatigue'>
+</p>
+Fly and jump equipment
+
+<p align='center'>
+    <img src='./images/ai6.JPG' width='600' alt='JS Fatigue'>
+</p>
+Control motion with sensor
